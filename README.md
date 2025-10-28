@@ -1,5 +1,4 @@
 # Legal Judgment Prediction in the Saudi Arabian Commercial Court
----
   
 This repository provides the implementation and supporting resources for the research paper “Legal Judgment Prediction in the Saudi Arabian Commercial Court”.
 The study introduces a deep learning framework for predicting judicial outcomes (Accepted vs. Rejected) based on Arabic commercial court case texts.
@@ -65,7 +64,7 @@ The dataset was constructed from publicly available Saudi Commercial Court judgm
 [Ministry of Justice](https://www.moj.gov.sa/).
 
 Due to legal and privacy considerations, the raw data cannot be publicly distributed.  
-For academic or research collaboration, please [contact the author directly](mailto:almalkiashwag1@gmail.com).
+For academic or research collaboration, please [contact the author directly](mailto:almalkiashwaq0@gmail.com).
 
 ---
 
@@ -73,4 +72,4 @@ For academic or research collaboration, please [contact the author directly](mai
 Title: Legal Judgment Prediction in the Saudi Arabian Commercial Court
 Authors: Ashwaq Almalki, Safa Alsafari, and Noura M. Alotaibi
 Journal: Future Internet (MDPI), 2025
-DOI:[Link to Paper](https://www.mdpi.com/1999-5903/17/10/439)
+DOI: [Link to Paper](https://www.mdpi.com/1999-5903/17/10/439)
