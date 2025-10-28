@@ -1,6 +1,6 @@
 <div align="center">
 # Legal Judgment Prediction in the Saudi Arabian Commercial Court
-<\div>
+</div>
 ---
   
 This repository provides the implementation and supporting resources for the research paper “Legal Judgment Prediction in the Saudi Arabian Commercial Court”.
@@ -13,10 +13,10 @@ The approach leverages AraBERT-based sentence-level classification combined with
 
 | Folder                 | Description                                                                                                 |
 | --------------------   | ----------------------------------------------------------------------------------------------------------- |
-| `Data_Scraping/`       | Selenium-based scripts for collecting Saudi commercial case judgments from the Ministry of Justice website. |
-| `Data_EDA_&_Labeling/` | Data cleaning, preprocessing, exploratory data analysis, and rule-based labeling of case outcomes.          |
-| `Main_Methodology/`    | Core training notebooks for AraBERT models, sentence-level classification, and document-level aggregation.  |
-| `Baselines/`           | Baseline experiments including TF-IDF + SVM, AraBERT-first512, XLM-RoBERTa, and Longformer models.          |
+| `Data_Scraping`       | Selenium-based scripts for collecting Saudi commercial case judgments from the Ministry of Justice website. |
+| `Data_EDA_&_Labeling` | Data cleaning, preprocessing, exploratory data analysis, and rule-based labeling of case outcomes.          |
+| `Main_Methodology`    | Core training notebooks for AraBERT models, sentence-level classification, and document-level aggregation.  |
+| `Baselines`           | Baseline experiments including TF-IDF + SVM, AraBERT-first512, XLM-RoBERTa, and Longformer models.          |
 
 ---
 
