@@ -1,6 +1,4 @@
-<div align="center">
 # Legal Judgment Prediction in the Saudi Arabian Commercial Court
-</div>
 ---
   
 This repository provides the implementation and supporting resources for the research paper “Legal Judgment Prediction in the Saudi Arabian Commercial Court”.
