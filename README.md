@@ -70,6 +70,9 @@ For academic or research collaboration, please [contact the author directly](mai
 
 ## Paper Reference:  
 Title: Legal Judgment Prediction in the Saudi Arabian Commercial Court
+
 Authors: Ashwaq Almalki, Safa Alsafari, and Noura M. Alotaibi
+
 Journal: Future Internet (MDPI), 2025
+
 DOI: [Link to Paper](https://www.mdpi.com/1999-5903/17/10/439)
